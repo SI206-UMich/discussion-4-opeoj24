@@ -45,6 +45,7 @@ class Rectangle():
         if not self.verify_input():
             return "Invalid input"
         return self.width * self.height
+        print ("test")
 
 
     # Create the "perimeter" method
