@@ -20,7 +20,7 @@ class Rectangle():
 
         def __str__(self):
             return f"A rectangle with width ____ and height ____"
-    
+            print ("test")
 
 
     # Create the "verify_input" method
